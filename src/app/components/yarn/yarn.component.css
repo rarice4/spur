@@ -1,0 +1,10 @@
+#scaleimg {
+  width: 500px;
+  height: 500px;
+}
+@media (max-width: 1194px){
+  #scaleimg {
+    max-width: 450px !important;
+    max-height: 450px !important;
+  }
+}

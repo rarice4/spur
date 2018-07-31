@@ -233,6 +233,14 @@ footer.footer {
   background-size: cover;
   background-position: top;
 }
+@media (max-width: 1194px){
+  .yarntron {
+    background: url('./assets/img/yarn_ball_line_2_c.JPG') no-repeat center center;
+    height:610px;
+    background-size: cover;
+    background-position: 22% 0%;
+  }
+}
 .abouttron {
   background: url('./assets/img/machine_long_c.JPG') no-repeat center center;
   height:610px;
